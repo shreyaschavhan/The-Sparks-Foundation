@@ -16,3 +16,6 @@ This Repository Contains the Tasks that I completed while working as an Data Sci
 * What will be predicted score if a student studies for 9.25 hrs/ day?
 
 My Solution : [Task-1 : Prediction using Supervised ML (Level - Beginner)](https://github.com/shreyaschavhan/The-Sparks-Foundation/blob/main/Codes/Task_1_Prediction_using_Supervised_ML.ipynb)
+
+Video : [Task-1 : Prediction using Supervised ML (Level - Beginner)](https://youtu.be/h8uQvh2m87o
+)
